@@ -1,0 +1,46 @@
+html {
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+  background-color: #c9b5ab;
+  line-height: 1.5;
+  color: #222;
+  list-style-type: armenian;
+}
+
+* {
+  box-sizing: inherit;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h1 {
+  color: #3f1622;
+  font-size: 1.5rem;
+}
+
+h2 {
+  color: #3f1622;
+  font-size: 1.5rem;
+}
+
+.nav {
+  color: #8f2440;
+  font-size: 1.25rem;
+}
+
+a:hover {
+  color: #8f2440;
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: underline;
+}
+
+figcaption {
+  font-family: "PT Serif", serif;
+}
