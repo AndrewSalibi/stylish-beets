@@ -44,3 +44,7 @@ a {
 figcaption {
   font-family: "PT Serif", serif;
 }
+
+dt {
+  font-size: 1.25rem;
+}
